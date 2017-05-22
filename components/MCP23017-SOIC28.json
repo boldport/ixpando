@@ -1,0 +1,314 @@
+{
+"pins":
+  {
+  "1":
+    {	
+      "layout": 
+      {
+        "pad": "pad", 
+        "location": [-4.7, 8.255],
+        "label": "GPB0"
+      }
+    },
+  "2":
+    {	
+      "layout": 
+      {
+        "pad": "pad", 
+        "location": [-4.7, 6.985],
+        "label": "GPB1"
+      }
+    },
+  "3":
+    {	
+      "layout": 
+      {
+        "pad": "pad", 
+        "location": [-4.7, 5.715],
+        "label": "GPB2"
+      }
+    },
+  "4":
+    {	
+      "layout": 
+      {
+        "pad": "pad", 
+        "location": [-4.7, 4.445],
+        "label": "GPB3"
+      }
+    },
+  "5":
+    {	
+      "layout": 
+      {
+        "pad": "pad", 
+        "location": [-4.7, 3.175],
+        "label": "GPB4"
+      }
+    },
+  "6":
+    {	
+      "layout": 
+      {
+        "pad": "pad", 
+        "location": [-4.7, 1.905],
+        "label": "GPB5"
+      }
+    },
+  "7":
+    {	
+      "layout": 
+      {
+        "pad": "pad", 
+        "location": [-4.7, 0.635],
+        "label": "GPB6"
+      }
+    },
+  "8":
+    {	
+      "layout": 
+      {
+        "pad": "pad", 
+        "location": [-4.7, -0.635],
+        "label": "GPB7"
+      }
+    },
+  "9":
+    {	
+      "layout": 
+      {
+        "pad": "pad", 
+        "location": [-4.7, -1.905],
+        "label": "VDD"
+      }
+    },
+  "10":
+    {	
+      "layout": 
+      {
+        "pad": "pad", 
+        "location": [-4.7, -3.175],
+        "label": "VSS"
+      }
+    },
+  "11":
+    {	
+      "layout": 
+      {
+        "pad": "pad", 
+        "location": [-4.7, -4.445],
+        "label": "NC"
+      }
+    },
+  "12":
+    {	
+      "layout": 
+      {
+        "pad": "pad", 
+        "location": [-4.7, -5.715],
+        "label": "SCK"
+      }
+    },
+  "13":
+    {	
+      "layout": 
+      {
+        "pad": "pad", 
+        "location": [-4.7, -6.985],
+        "label": "SDA"
+      }
+    },
+  "14":
+    {	
+      "layout": 
+      {
+        "pad": "pad", 
+        "location": [-4.7, -8.255],
+        "label": "NC"
+      }
+    },
+  "15":
+    {	
+      "layout": 
+      {
+        "pad": "pad", 
+        "location": [4.7, -8.255],
+        "label": "A0"
+      }
+    },
+  "16":
+    {	
+      "layout": 
+      {
+        "pad": "pad", 
+        "location": [4.7, -6.985],
+        "label": "A1"
+      }
+    },
+  "17":
+    {	
+      "layout": 
+      {
+        "pad": "pad", 
+        "location": [4.7, -5.715],
+        "label": "A2"
+      }
+    },
+  "18":
+    {	
+      "layout": 
+      {
+        "pad": "pad", 
+        "location": [4.7, -4.445],
+        "label": "nRESET"
+      }
+    },
+  "19":
+    {	
+      "layout": 
+      {
+        "pad": "pad", 
+        "location": [4.7, -3.175],
+        "label": "INTB"
+      }
+    },
+  "20":
+    {	
+      "layout": 
+      {
+        "pad": "pad", 
+        "location": [4.7, -1.905],
+        "label": "INTA"
+      }
+    },
+  "21":
+    {	
+      "layout": 
+      {
+        "pad": "pad", 
+        "location": [4.7, -0.635],
+        "label": "GPA0"
+      }
+    },
+  "22":
+    {	
+      "layout": 
+      {
+        "pad": "pad", 
+        "location": [4.7, 0.635],
+        "label": "GPA1"
+      }
+    },
+  "23":
+    {	
+      "layout": 
+      {
+        "pad": "pad", 
+        "location": [4.7, 1.905],
+        "label": "GPA2"
+      }
+    },
+  "24":
+    {	
+      "layout": 
+      {
+        "pad": "pad", 
+        "location": [4.7, 3.175],
+        "label": "GPA3"
+      }
+    },
+  "25":
+    {	
+      "layout": 
+      {
+        "pad": "pad", 
+        "location": [4.7, 4.445],
+        "label": "GPA4"
+      }
+    },
+  "26":
+    {	
+      "layout": 
+      {
+        "pad": "pad", 
+        "location": [4.7, 5.715],
+        "label": "GPA5"
+      }
+    },
+  "27":
+    {	
+      "layout": 
+      {
+        "pad": "pad", 
+        "location": [4.7, 6.985],
+        "label": "GPA6"
+      }
+    },
+  "28":
+    {	
+      "layout": 
+      {
+        "pad": "pad", 
+        "location": [4.7, 8.255],
+        "label": "GPA7"
+      }
+    }
+  },
+  "layout":
+  {
+    "silkscreen":
+    {
+      "shapes":
+      [
+        { 
+          "type": "rect",
+          "layers": ["top"],
+          "width": 8.0,
+          "height": 18.4,
+          "location": [0,0]
+        },
+        { 
+          "type": "circle",
+          "layers": ["top"],
+          "style": "fill",
+          "diameter": 0.8,
+          "location": [-6.6,8.5]
+        }
+      ]
+    },
+    "assembly":
+    {
+      "shapes":
+      [
+        {
+          "type": "rect",
+          "layers": ["top"],
+          "height": 17.9,
+          "width": 7.5
+        },
+        { 
+          "type": "circle",
+          "layers": ["top"],
+          "style": "fill",
+          "diameter": 0.8,
+          "location": [-3.0,8]
+        }
+      ]
+    }
+  },
+  "pads":
+  {
+    "pad":
+    {
+      "shapes":
+      [
+        {
+          "type": "rect",
+          "width": 2.0,
+          "height": 0.6,
+          "layers": ["top"]
+        }
+      ]      
+    }
+  }
+}
