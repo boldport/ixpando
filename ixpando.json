@@ -24,8 +24,8 @@
       "footprint": "0805-led", 
       "layer": "top", 
       "location": [
-        -16.373762, 
-        -18.075495
+        -32.328211, 
+        -13.558904
       ], 
       "rotate": -90, 
       "show": true
