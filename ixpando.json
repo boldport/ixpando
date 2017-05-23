@@ -70,6 +70,26 @@
       "rotate": -90, 
       "show": true
     }, 
+    "J4": {
+      "footprint": "dip-switch-diptronics-em-08", 
+      "layer": "bottom", 
+      "location": [
+        10.16, 
+        -17.868722
+      ], 
+      "rotate": 0, 
+      "show": true
+    }, 
+    "J5": {
+      "footprint": "dip-switch-diptronics-em-08", 
+      "layer": "bottom", 
+      "location": [
+        -10.17, 
+        -17.868722
+      ], 
+      "rotate": 0, 
+      "show": true
+    }, 
     "R1": {
       "footprint": "0805", 
       "layer": "top", 

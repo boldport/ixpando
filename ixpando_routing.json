@@ -1,11 +1,29 @@
 {
   "routes": {
     "bottom": {
+      "00ad87928": {
+        "stroke-width": 0.45, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "m 1.27,16.487665 v 2.800922"
+      }, 
+      "013777318": {
+        "stroke-width": 0.45, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "m 3.81,16.487665 v 2.800922"
+      }, 
       "08eed6583": {
         "stroke-width": 0.25, 
         "style": "stroke", 
         "type": "path", 
         "value": "M 22.711916,-8.9754177 C 17.84704,-6.2843815 6.215468,-13.053811 4.484719,-9.69299"
+      }, 
+      "2dea07a15": {
+        "stroke-width": 0.45, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "m -1.27,16.487665 v 2.800922"
       }, 
       "30af3ce1c": {
         "stroke-width": 0.25, 
@@ -18,6 +36,12 @@
         "style": "stroke", 
         "type": "path", 
         "value": "M 22.802766,-3.7550435 C 11.845658,-7.1562398 4.4293822,-6.1552765 1.895262,-9.3776376"
+      }, 
+      "39af515e6": {
+        "stroke-width": 0.45, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "m 8.89,16.487665 v 2.800922"
       }, 
       "3c43ef074": {
         "stroke-width": 0.45, 
@@ -37,6 +61,30 @@
         "type": "path", 
         "value": "m -22.841462,8.9410189 c 5.942086,0.1584708 42.910969,-0.2719986 45.575287,0.011776"
       }, 
+      "5dbac0f1d": {
+        "stroke-width": 0.45, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "m 13.969998,16.487665 v 2.800922"
+      }, 
+      "69de64934": {
+        "stroke-width": 0.45, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "m 16.51,16.487665 v 2.800922"
+      }, 
+      "79a924a28": {
+        "stroke-width": 0.45, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "m -19.074236,16.487665 v 2.800922"
+      }, 
+      "8e578a6cc": {
+        "stroke-width": 0.45, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "m -3.81,16.487665 v 2.800922"
+      }, 
       "8eccd5136": {
         "stroke-width": 0.25, 
         "style": "stroke", 
@@ -49,11 +97,29 @@
         "type": "path", 
         "value": "m -22.516763,-3.5126502 c 9.850969,0.5537579 15.7197629,-5.5337044 24.3983771,-5.8994528"
       }, 
+      "8fb32f075": {
+        "stroke-width": 0.45, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "m 11.43,16.487665 v 2.800922"
+      }, 
+      "929733750": {
+        "stroke-width": 0.45, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "m -13.97,16.487665 v 2.800922"
+      }, 
       "9f06d0b6f": {
         "stroke-width": 0.25, 
         "style": "stroke", 
         "type": "path", 
         "value": "M 23.048898,1.3319418 C 18.474128,-0.24330086 5.425972,4.822112 5.6219327,-0.47056065"
+      }, 
+      "a9e86fbec": {
+        "stroke-width": 0.45, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "m 19.05,16.487665 v 2.800922"
       }, 
       "b327558ab": {
         "stroke-width": 0.25, 
@@ -67,17 +133,41 @@
         "type": "path", 
         "value": "m 22.947679,6.583812 c -1.031734,0.7550159 -2.699064,0.9457943 -3.348663,0.9881905 -0.649599,0.042396 -38.98422,0.110118 -39.814284,0 -0.830063,-0.1101181 -2.418514,-0.5158373 -2.454909,-1.1490186"
       }, 
-      "d899be65b": {
+      "c6cae83ef": {
         "stroke-width": 0.45, 
         "style": "stroke", 
         "type": "path", 
-        "value": "m -22.857299,3.7189064 c 1.736441,0.4823091 1.337531,2.230895 0.106454,2.4335783"
+        "value": "m -16.51,16.487665 v 2.800922"
+      }, 
+      "cb1abd023": {
+        "stroke-width": 0.45, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "m -11.43,16.487665 v 2.800922"
+      }, 
+      "dd765e2c3": {
+        "stroke-width": 0.45, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "m -8.89,16.487665 v 2.800922"
       }, 
       "dee94fde8": {
         "stroke-width": 0.25, 
         "style": "stroke", 
         "type": "path", 
         "value": "M -22.607635,1.3474162 C -11.313352,1.1053679 -6.9941879,-3.4773587 5.6168149,-0.43900124"
+      }, 
+      "df3ac1b71": {
+        "stroke-width": 0.45, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "m 6.35,16.487665 v 2.800922"
+      }, 
+      "f505001c9": {
+        "stroke-width": 0.45, 
+        "style": "stroke", 
+        "type": "path", 
+        "value": "m -6.35,16.487665 v 2.800922"
       }, 
       "fb7d4bdac": {
         "stroke-width": 0.25, 
@@ -324,120 +414,6 @@
     }
   }, 
   "vias": {
-    "00ae899d8": {
-      "assembly": {
-        "refdef": {
-          "show": false
-        }
-      }, 
-      "footprint": "0805-led", 
-      "layer": "bottom", 
-      "location": [
-        -11.43, 
-        -20
-      ], 
-      "rotate": -90, 
-      "silkscreen": {
-        "refdef": {
-          "show": false
-        }
-      }
-    }, 
-    "04e33c239": {
-      "assembly": {
-        "refdef": {
-          "show": false
-        }
-      }, 
-      "footprint": "0805-led", 
-      "layer": "bottom", 
-      "location": [
-        -13.97, 
-        -20
-      ], 
-      "rotate": -90, 
-      "silkscreen": {
-        "refdef": {
-          "show": false
-        }
-      }
-    }, 
-    "080382d0c": {
-      "assembly": {
-        "refdef": {
-          "show": false
-        }
-      }, 
-      "footprint": "0805", 
-      "layer": "bottom", 
-      "location": [
-        -13.97, 
-        -25
-      ], 
-      "rotate": -90, 
-      "silkscreen": {
-        "refdef": {
-          "show": false
-        }
-      }
-    }, 
-    "0a2a5fa1a": {
-      "assembly": {
-        "refdef": {
-          "show": false
-        }
-      }, 
-      "footprint": "0805-led", 
-      "layer": "bottom", 
-      "location": [
-        16.51, 
-        -20
-      ], 
-      "rotate": -90, 
-      "silkscreen": {
-        "refdef": {
-          "show": false
-        }
-      }
-    }, 
-    "0f5a7c9c3": {
-      "assembly": {
-        "refdef": {
-          "show": false
-        }
-      }, 
-      "footprint": "0805-led", 
-      "layer": "bottom", 
-      "location": [
-        19.05, 
-        -20
-      ], 
-      "rotate": -90, 
-      "silkscreen": {
-        "refdef": {
-          "show": false
-        }
-      }
-    }, 
-    "106920155": {
-      "assembly": {
-        "refdef": {
-          "show": false
-        }
-      }, 
-      "footprint": "0805-led", 
-      "layer": "bottom", 
-      "location": [
-        6.35, 
-        -20
-      ], 
-      "rotate": -90, 
-      "silkscreen": {
-        "refdef": {
-          "show": false
-        }
-      }
-    }, 
     "12110ffd4": {
       "assembly": {
         "refdef": {
@@ -451,6 +427,44 @@
         31.220835
       ], 
       "rotate": 0, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "1268e68c0": {
+      "assembly": {
+        "refdef": {
+          "show": false
+        }
+      }, 
+      "footprint": "0805-led", 
+      "layer": "bottom", 
+      "location": [
+        -13.97, 
+        -20.640256
+      ], 
+      "rotate": -90, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "169babc24": {
+      "assembly": {
+        "refdef": {
+          "show": false
+        }
+      }, 
+      "footprint": "0805", 
+      "layer": "bottom", 
+      "location": [
+        16.51, 
+        -15.093667
+      ], 
+      "rotate": -90, 
       "silkscreen": {
         "refdef": {
           "show": false
@@ -495,7 +509,7 @@
         }
       }
     }, 
-    "2bc8bea10": {
+    "230214a72": {
       "assembly": {
         "refdef": {
           "show": false
@@ -504,8 +518,8 @@
       "footprint": "0805-led", 
       "layer": "bottom", 
       "location": [
-        11.43, 
-        -20
+        -11.43, 
+        -20.640256
       ], 
       "rotate": -90, 
       "silkscreen": {
@@ -514,7 +528,26 @@
         }
       }
     }, 
-    "35dba103b": {
+    "2db36bec4": {
+      "assembly": {
+        "refdef": {
+          "show": false
+        }
+      }, 
+      "footprint": "0805-led", 
+      "layer": "bottom", 
+      "location": [
+        3.81, 
+        -20.640256
+      ], 
+      "rotate": -90, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "2dd0afbb6": {
       "assembly": {
         "refdef": {
           "show": false
@@ -523,8 +556,46 @@
       "footprint": "0805", 
       "layer": "bottom", 
       "location": [
-        -11.43, 
-        -25
+        13.969998, 
+        -15.093667
+      ], 
+      "rotate": -90, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "3074f8173": {
+      "assembly": {
+        "refdef": {
+          "show": false
+        }
+      }, 
+      "footprint": "0805-led", 
+      "layer": "bottom", 
+      "location": [
+        16.51, 
+        -20.640256
+      ], 
+      "rotate": -90, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "329d30951": {
+      "assembly": {
+        "refdef": {
+          "show": false
+        }
+      }, 
+      "footprint": "0805-led", 
+      "layer": "bottom", 
+      "location": [
+        -19.05, 
+        -20.640256
       ], 
       "rotate": -90, 
       "silkscreen": {
@@ -552,44 +623,6 @@
         }
       }
     }, 
-    "3c6c8b3ce": {
-      "assembly": {
-        "refdef": {
-          "show": false
-        }
-      }, 
-      "footprint": "0805", 
-      "layer": "bottom", 
-      "location": [
-        -8.89, 
-        -25
-      ], 
-      "rotate": -90, 
-      "silkscreen": {
-        "refdef": {
-          "show": false
-        }
-      }
-    }, 
-    "3ca6a5017": {
-      "assembly": {
-        "refdef": {
-          "show": false
-        }
-      }, 
-      "footprint": "0805", 
-      "layer": "bottom", 
-      "location": [
-        11.43, 
-        -25
-      ], 
-      "rotate": -90, 
-      "silkscreen": {
-        "refdef": {
-          "show": false
-        }
-      }
-    }, 
     "3cd428308": {
       "assembly": {
         "refdef": {
@@ -603,25 +636,6 @@
         9.79299
       ], 
       "rotate": 0, 
-      "silkscreen": {
-        "refdef": {
-          "show": false
-        }
-      }
-    }, 
-    "3f172e400": {
-      "assembly": {
-        "refdef": {
-          "show": false
-        }
-      }, 
-      "footprint": "0805-led", 
-      "layer": "bottom", 
-      "location": [
-        3.81, 
-        -20
-      ], 
-      "rotate": -90, 
       "silkscreen": {
         "refdef": {
           "show": false
@@ -647,7 +661,26 @@
         }
       }
     }, 
-    "47dc255f9": {
+    "47e07c1be": {
+      "assembly": {
+        "refdef": {
+          "show": false
+        }
+      }, 
+      "footprint": "0805-led", 
+      "layer": "bottom", 
+      "location": [
+        -16.51, 
+        -20.640256
+      ], 
+      "rotate": -90, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "55987864f": {
       "assembly": {
         "refdef": {
           "show": false
@@ -657,7 +690,7 @@
       "layer": "bottom", 
       "location": [
         -6.35, 
-        -25
+        -15.093667
       ], 
       "rotate": -90, 
       "silkscreen": {
@@ -666,7 +699,64 @@
         }
       }
     }, 
-    "6f74939e9": {
+    "56eafc153": {
+      "assembly": {
+        "refdef": {
+          "show": false
+        }
+      }, 
+      "footprint": "0805", 
+      "layer": "bottom", 
+      "location": [
+        3.81, 
+        -15.093667
+      ], 
+      "rotate": -90, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "6086e0dec": {
+      "assembly": {
+        "refdef": {
+          "show": false
+        }
+      }, 
+      "footprint": "0805", 
+      "layer": "bottom", 
+      "location": [
+        -16.51, 
+        -15.093667
+      ], 
+      "rotate": -90, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "6ecc262f8": {
+      "assembly": {
+        "refdef": {
+          "show": false
+        }
+      }, 
+      "footprint": "0805", 
+      "layer": "bottom", 
+      "location": [
+        -1.27, 
+        -15.093667
+      ], 
+      "rotate": -90, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "729bfd016": {
       "assembly": {
         "refdef": {
           "show": false
@@ -675,8 +765,8 @@
       "footprint": "0805-led", 
       "layer": "bottom", 
       "location": [
-        -1.27, 
-        -20
+        8.89, 
+        -20.640256
       ], 
       "rotate": -90, 
       "silkscreen": {
@@ -704,7 +794,7 @@
         }
       }
     }, 
-    "7776d6036": {
+    "767ea31b1": {
       "assembly": {
         "refdef": {
           "show": false
@@ -713,27 +803,8 @@
       "footprint": "0805", 
       "layer": "bottom", 
       "location": [
-        19.05, 
-        -25
-      ], 
-      "rotate": -90, 
-      "silkscreen": {
-        "refdef": {
-          "show": false
-        }
-      }
-    }, 
-    "799805492": {
-      "assembly": {
-        "refdef": {
-          "show": false
-        }
-      }, 
-      "footprint": "0805", 
-      "layer": "bottom", 
-      "location": [
-        6.35, 
-        -25
+        11.43, 
+        -15.093667
       ], 
       "rotate": -90, 
       "silkscreen": {
@@ -761,7 +832,7 @@
         }
       }
     }, 
-    "8494404d9": {
+    "851a21330": {
       "assembly": {
         "refdef": {
           "show": false
@@ -770,8 +841,27 @@
       "footprint": "0805", 
       "layer": "bottom", 
       "location": [
-        -1.27, 
-        -25
+        -8.89, 
+        -15.093667
+      ], 
+      "rotate": -90, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "8714933a7": {
+      "assembly": {
+        "refdef": {
+          "show": false
+        }
+      }, 
+      "footprint": "0805-led", 
+      "layer": "bottom", 
+      "location": [
+        -8.89, 
+        -20.640256
       ], 
       "rotate": -90, 
       "silkscreen": {
@@ -799,7 +889,7 @@
         }
       }
     }, 
-    "8bd6b7c62": {
+    "8a88c34e3": {
       "assembly": {
         "refdef": {
           "show": false
@@ -808,8 +898,8 @@
       "footprint": "0805-led", 
       "layer": "bottom", 
       "location": [
-        13.969998, 
-        -20
+        -6.35, 
+        -20.640256
       ], 
       "rotate": -90, 
       "silkscreen": {
@@ -818,17 +908,17 @@
         }
       }
     }, 
-    "8eb29a0b6": {
+    "8f60e215b": {
       "assembly": {
         "refdef": {
           "show": false
         }
       }, 
-      "footprint": "0805-led", 
+      "footprint": "0805", 
       "layer": "bottom", 
       "location": [
-        -16.51, 
-        -20
+        -19.05, 
+        -15.093667
       ], 
       "rotate": -90, 
       "silkscreen": {
@@ -837,17 +927,17 @@
         }
       }
     }, 
-    "9bf609553": {
+    "9a10499f2": {
       "assembly": {
         "refdef": {
           "show": false
         }
       }, 
-      "footprint": "0805-led", 
+      "footprint": "0805", 
       "layer": "bottom", 
       "location": [
-        -3.81, 
-        -20
+        -13.97, 
+        -15.093667
       ], 
       "rotate": -90, 
       "silkscreen": {
@@ -875,7 +965,7 @@
         }
       }
     }, 
-    "a8b5a919e": {
+    "a7b710e51": {
       "assembly": {
         "refdef": {
           "show": false
@@ -884,8 +974,8 @@
       "footprint": "0805", 
       "layer": "bottom", 
       "location": [
-        -16.51, 
-        -25
+        1.27, 
+        -15.093667
       ], 
       "rotate": -90, 
       "silkscreen": {
@@ -894,7 +984,7 @@
         }
       }
     }, 
-    "a8e3583d2": {
+    "a88ba01d9": {
       "assembly": {
         "refdef": {
           "show": false
@@ -903,8 +993,27 @@
       "footprint": "0805-led", 
       "layer": "bottom", 
       "location": [
-        -6.35, 
-        -20
+        1.27, 
+        -20.640256
+      ], 
+      "rotate": -90, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "a8ff48239": {
+      "assembly": {
+        "refdef": {
+          "show": false
+        }
+      }, 
+      "footprint": "0805-led", 
+      "layer": "bottom", 
+      "location": [
+        -1.27, 
+        -20.640256
       ], 
       "rotate": -90, 
       "silkscreen": {
@@ -932,7 +1041,26 @@
         }
       }
     }, 
-    "af1e57bd1": {
+    "b65580cd1": {
+      "assembly": {
+        "refdef": {
+          "show": false
+        }
+      }, 
+      "footprint": "0805", 
+      "layer": "bottom", 
+      "location": [
+        6.35, 
+        -15.093667
+      ], 
+      "rotate": -90, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "b7e17afe8": {
       "assembly": {
         "refdef": {
           "show": false
@@ -941,8 +1069,8 @@
       "footprint": "0805-led", 
       "layer": "bottom", 
       "location": [
-        -19.05, 
-        -20
+        19.05, 
+        -20.640256
       ], 
       "rotate": -90, 
       "silkscreen": {
@@ -951,45 +1079,7 @@
         }
       }
     }, 
-    "b3f2e753b": {
-      "assembly": {
-        "refdef": {
-          "show": false
-        }
-      }, 
-      "footprint": "0805", 
-      "layer": "bottom", 
-      "location": [
-        16.51, 
-        -25
-      ], 
-      "rotate": -90, 
-      "silkscreen": {
-        "refdef": {
-          "show": false
-        }
-      }
-    }, 
-    "c58c89438": {
-      "assembly": {
-        "refdef": {
-          "show": false
-        }
-      }, 
-      "footprint": "0805", 
-      "layer": "bottom", 
-      "location": [
-        1.27, 
-        -25
-      ], 
-      "rotate": -90, 
-      "silkscreen": {
-        "refdef": {
-          "show": false
-        }
-      }
-    }, 
-    "c874c8852": {
+    "ba112c99c": {
       "assembly": {
         "refdef": {
           "show": false
@@ -998,8 +1088,8 @@
       "footprint": "0805-led", 
       "layer": "bottom", 
       "location": [
-        -8.89, 
-        -20
+        13.969998, 
+        -20.640256
       ], 
       "rotate": -90, 
       "silkscreen": {
@@ -1008,26 +1098,7 @@
         }
       }
     }, 
-    "ccdf09750": {
-      "assembly": {
-        "refdef": {
-          "show": false
-        }
-      }, 
-      "footprint": "0805", 
-      "layer": "bottom", 
-      "location": [
-        3.81, 
-        -25
-      ], 
-      "rotate": -90, 
-      "silkscreen": {
-        "refdef": {
-          "show": false
-        }
-      }
-    }, 
-    "d3bf90d25": {
+    "bcfc5eeee": {
       "assembly": {
         "refdef": {
           "show": false
@@ -1036,8 +1107,8 @@
       "footprint": "0805-led", 
       "layer": "bottom", 
       "location": [
-        1.27, 
-        -20
+        -3.81, 
+        -20.640256
       ], 
       "rotate": -90, 
       "silkscreen": {
@@ -1046,17 +1117,17 @@
         }
       }
     }, 
-    "d83ed7430": {
+    "c37d9ed18": {
       "assembly": {
         "refdef": {
           "show": false
         }
       }, 
-      "footprint": "0805", 
+      "footprint": "0805-led", 
       "layer": "bottom", 
       "location": [
-        8.89, 
-        -25
+        6.35, 
+        -20.640256
       ], 
       "rotate": -90, 
       "silkscreen": {
@@ -1065,7 +1136,7 @@
         }
       }
     }, 
-    "dc9a9e830": {
+    "ca587c524": {
       "assembly": {
         "refdef": {
           "show": false
@@ -1075,7 +1146,7 @@
       "layer": "bottom", 
       "location": [
         -3.81, 
-        -25
+        -15.093667
       ], 
       "rotate": -90, 
       "silkscreen": {
@@ -1084,7 +1155,7 @@
         }
       }
     }, 
-    "e2d80d6b9": {
+    "ce5ad0185": {
       "assembly": {
         "refdef": {
           "show": false
@@ -1093,8 +1164,46 @@
       "footprint": "0805", 
       "layer": "bottom", 
       "location": [
-        -19.05, 
-        -25
+        8.89, 
+        -15.093667
+      ], 
+      "rotate": -90, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "d32946a4f": {
+      "assembly": {
+        "refdef": {
+          "show": false
+        }
+      }, 
+      "footprint": "0805", 
+      "layer": "bottom", 
+      "location": [
+        19.05, 
+        -15.093667
+      ], 
+      "rotate": -90, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "df38c5f71": {
+      "assembly": {
+        "refdef": {
+          "show": false
+        }
+      }, 
+      "footprint": "0805-led", 
+      "layer": "bottom", 
+      "location": [
+        11.43, 
+        -20.640256
       ], 
       "rotate": -90, 
       "silkscreen": {
@@ -1122,7 +1231,7 @@
         }
       }
     }, 
-    "f4f59f3d7": {
+    "fc26ab2b6": {
       "assembly": {
         "refdef": {
           "show": false
@@ -1131,27 +1240,8 @@
       "footprint": "0805", 
       "layer": "bottom", 
       "location": [
-        13.969998, 
-        -25
-      ], 
-      "rotate": -90, 
-      "silkscreen": {
-        "refdef": {
-          "show": false
-        }
-      }
-    }, 
-    "f75f5f9b1": {
-      "assembly": {
-        "refdef": {
-          "show": false
-        }
-      }, 
-      "footprint": "0805-led", 
-      "layer": "bottom", 
-      "location": [
-        8.89, 
-        -20
+        -11.43, 
+        -15.093667
       ], 
       "rotate": -90, 
       "silkscreen": {
