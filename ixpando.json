@@ -54,7 +54,7 @@
       "footprint": "function-header", 
       "layer": "top", 
       "location": [
-        -22.9, 
+        -23.429167, 
         0
       ], 
       "rotate": -90, 
@@ -64,7 +64,7 @@
       "footprint": "function-header", 
       "layer": "top", 
       "location": [
-        22.9, 
+        23.429167, 
         0
       ], 
       "rotate": -90, 
@@ -75,7 +75,7 @@
       "layer": "bottom", 
       "location": [
         10.16, 
-        -17.868722
+        0.652112
       ], 
       "rotate": 0, 
       "show": true
@@ -85,7 +85,37 @@
       "layer": "bottom", 
       "location": [
         -10.17, 
-        -17.868722
+        0.652112
+      ], 
+      "rotate": 0, 
+      "show": true
+    }, 
+    "J6": {
+      "footprint": "solder-blob-jumper", 
+      "layer": "top", 
+      "location": [
+        12.010691, 
+        8.471671
+      ], 
+      "rotate": 0, 
+      "show": true
+    }, 
+    "J7": {
+      "footprint": "solder-blob-jumper", 
+      "layer": "top", 
+      "location": [
+        17.06709, 
+        8.742314
+      ], 
+      "rotate": 0, 
+      "show": true
+    }, 
+    "J8": {
+      "footprint": "solder-blob-jumper", 
+      "layer": "top", 
+      "location": [
+        17.272227, 
+        5.151178
       ], 
       "rotate": 0, 
       "show": true
@@ -310,15 +340,25 @@
     }
   }, 
   "shapes": {
-    "SOLDER-BAR": {
-      "footprint": "solder-bar", 
+    "LGND-L": {
+      "footprint": "header-legend", 
       "layer": "top", 
       "location": [
-        0, 
+        -20.82083, 
         0
       ], 
       "rotate": 0, 
-      "show": false
+      "show": true
+    }, 
+    "LGND-R": {
+      "footprint": "header-legend-r", 
+      "layer": "top", 
+      "location": [
+        20.859045, 
+        0
+      ], 
+      "rotate": 0, 
+      "show": true
     }
   }, 
   "soldermask": {
