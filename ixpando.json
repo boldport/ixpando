@@ -8,7 +8,17 @@
         3.167604
       ], 
       "rotate": -90, 
-      "show": true
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0, 
+            1.868622
+          ], 
+          "rotate": 90, 
+          "show": true
+        }
+      }
     }, 
     "C2": {
       "footprint": "0805-cap", 
@@ -18,17 +28,17 @@
         3.167604
       ], 
       "rotate": -90, 
-      "show": true
-    }, 
-    "D1": {
-      "footprint": "0805-led", 
-      "layer": "top", 
-      "location": [
-        -32.328211, 
-        -13.558904
-      ], 
-      "rotate": -90, 
-      "show": true
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            -2.563151, 
+            0
+          ], 
+          "rotate": 90, 
+          "show": true
+        }
+      }
     }, 
     "IC1": {
       "footprint": "MCP23017-SOIC28", 
@@ -214,7 +224,17 @@
         -1.384832
       ], 
       "rotate": -90, 
-      "show": true
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            2.480469, 
+            0
+          ], 
+          "rotate": 90, 
+          "show": true
+        }
+      }
     }, 
     "R2": {
       "footprint": "0805", 
@@ -224,7 +244,17 @@
         -1.384832
       ], 
       "rotate": -90, 
-      "show": true
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0.28112, 
+            -1.901686
+          ], 
+          "rotate": 90, 
+          "show": true
+        }
+      }
     }, 
     "R3": {
       "footprint": "0805", 
@@ -234,7 +264,17 @@
         7.720043
       ], 
       "rotate": -90, 
-      "show": true
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            -2.645834, 
+            0
+          ], 
+          "rotate": 90, 
+          "show": true
+        }
+      }
     }, 
     "R4": {
       "footprint": "0805", 
@@ -244,7 +284,17 @@
         7.720043
       ], 
       "rotate": -90, 
-      "show": true
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            2.467457, 
+            0
+          ], 
+          "rotate": 90, 
+          "show": true
+        }
+      }
     }, 
     "R5": {
       "footprint": "0805", 
@@ -254,7 +304,17 @@
         7.720043
       ], 
       "rotate": -90, 
-      "show": true
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            2.48064, 
+            0
+          ], 
+          "rotate": 90, 
+          "show": true
+        }
+      }
     }
   }, 
   "config": {
@@ -458,6 +518,16 @@
       "location": [
         0, 
         -6.895041
+      ], 
+      "rotate": 0, 
+      "show": true
+    }, 
+    "SMO": {
+      "footprint": "soldermask-openings", 
+      "layer": "bottom", 
+      "location": [
+        0, 
+        0.623845
       ], 
       "rotate": 0, 
       "show": true
