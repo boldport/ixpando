@@ -492,6 +492,16 @@
     }
   }, 
   "shapes": {
+    "INFO": {
+      "footprint": "info-text", 
+      "layer": "bottom", 
+      "location": [
+        21.204084, 
+        0
+      ], 
+      "rotate": 90, 
+      "show": true
+    }, 
     "LGND-L": {
       "footprint": "header-legend", 
       "layer": "top", 
@@ -530,6 +540,16 @@
         0.623845
       ], 
       "rotate": 0, 
+      "show": true
+    }, 
+    "URL": {
+      "footprint": "url", 
+      "layer": "bottom", 
+      "location": [
+        -21.330323, 
+        0
+      ], 
+      "rotate": 90, 
       "show": true
     }
   }, 
