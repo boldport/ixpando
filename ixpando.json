@@ -41,16 +41,31 @@
       "show": true
     }, 
     "J1": {
+      "assembly": {
+        "refdef": {
+          "show": true
+        }
+      }, 
       "footprint": "header", 
       "layer": "top", 
       "location": [
         0, 
-        -7.618745
+        -7.633739
       ], 
       "rotate": 0, 
-      "show": true
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
     }, 
     "J2": {
+      "assembly": {
+        "refdef": {
+          "show": true
+        }
+      }, 
       "footprint": "function-header", 
       "layer": "top", 
       "location": [
@@ -58,9 +73,19 @@
         0
       ], 
       "rotate": -90, 
-      "show": true
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
     }, 
     "J3": {
+      "assembly": {
+        "refdef": {
+          "show": true
+        }
+      }, 
       "footprint": "function-header", 
       "layer": "top", 
       "location": [
@@ -68,9 +93,19 @@
         0
       ], 
       "rotate": -90, 
-      "show": true
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
     }, 
     "J4": {
+      "assembly": {
+        "refdef": {
+          "show": true
+        }
+      }, 
       "footprint": "dip-switch-diptronics-em-08", 
       "layer": "bottom", 
       "location": [
@@ -78,9 +113,22 @@
         0.652112
       ], 
       "rotate": 0, 
-      "show": true
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }, 
+        "shapes": {
+          "show": false
+        }
+      }
     }, 
     "J5": {
+      "assembly": {
+        "refdef": {
+          "show": true
+        }
+      }, 
       "footprint": "dip-switch-diptronics-em-08", 
       "layer": "bottom", 
       "location": [
@@ -88,9 +136,22 @@
         0.652112
       ], 
       "rotate": 0, 
-      "show": true
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }, 
+        "shapes": {
+          "show": false
+        }
+      }
     }, 
     "J6": {
+      "assembly": {
+        "refdef": {
+          "show": true
+        }
+      }, 
       "footprint": "solder-blob-jumper", 
       "layer": "top", 
       "location": [
@@ -98,9 +159,19 @@
         8.471671
       ], 
       "rotate": 0, 
-      "show": true
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
     }, 
     "J7": {
+      "assembly": {
+        "refdef": {
+          "show": true
+        }
+      }, 
       "footprint": "solder-blob-jumper", 
       "layer": "top", 
       "location": [
@@ -108,9 +179,19 @@
         8.742314
       ], 
       "rotate": 0, 
-      "show": true
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
     }, 
     "J8": {
+      "assembly": {
+        "refdef": {
+          "show": true
+        }
+      }, 
       "footprint": "solder-blob-jumper", 
       "layer": "top", 
       "location": [
@@ -118,7 +199,12 @@
         5.151178
       ], 
       "rotate": 0, 
-      "show": true
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
     }, 
     "R1": {
       "footprint": "0805", 
@@ -335,6 +421,12 @@
   "outline": {
     "shape": {
       "height": 22, 
+      "radii": {
+        "bl": 3, 
+        "br": 3, 
+        "tl": 3, 
+        "tr": 3
+      }, 
       "type": "rect", 
       "width": 51
     }
@@ -356,6 +448,16 @@
       "location": [
         20.859045, 
         0
+      ], 
+      "rotate": 0, 
+      "show": true
+    }, 
+    "PRT": {
+      "footprint": "ports-legend", 
+      "layer": "top", 
+      "location": [
+        0, 
+        -6.895041
       ], 
       "rotate": 0, 
       "show": true
