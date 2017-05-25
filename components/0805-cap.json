@@ -26,11 +26,18 @@
       "shapes":
       [
         {
-          "type": "path",
-          "location": [0.11, -0.04],
-          "style": "fill",
-          "rotate": 90,
-          "value": "m 34.825471,-8.807264 1.141391,0 0.06284,-0.20009 -1.141943,0 z m -0.0027,-0.4342997 1.141942,0 0.06284,-0.200093 -1.141943,0 z"
+          "type": "rect",
+          "width": 0.2, 
+          "height": 1.4,
+          "location": [-0.2, 0],
+          "style": "fill"
+        },
+        {
+          "type": "rect",
+          "width": 0.2, 
+          "height": 1.4,
+          "location": [0.2, 0],
+          "style": "fill"
         }
       ]
     },
