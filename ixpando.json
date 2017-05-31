@@ -48,7 +48,12 @@
         3.175
       ], 
       "rotate": -90, 
-      "show": true
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
     }, 
     "J1": {
       "assembly": {
@@ -216,46 +221,6 @@
         }
       }
     }, 
-    "R4": {
-      "footprint": "0805", 
-      "layer": "top", 
-      "location": [
-        -17.37468, 
-        -1.384832
-      ], 
-      "rotate": -90, 
-      "show": true, 
-      "silkscreen": {
-        "refdef": {
-          "location": [
-            0, 
-            -1.494582
-          ], 
-          "rotate": 90, 
-          "show": true
-        }
-      }
-    }, 
-    "R5": {
-      "footprint": "0805", 
-      "layer": "top", 
-      "location": [
-        -14.3668, 
-        -1.384832
-      ], 
-      "rotate": -90, 
-      "show": true, 
-      "silkscreen": {
-        "refdef": {
-          "location": [
-            -0.0, 
-            -1.494582
-          ], 
-          "rotate": 90, 
-          "show": true
-        }
-      }
-    }, 
     "R1": {
       "footprint": "0805", 
       "layer": "top", 
@@ -310,6 +275,46 @@
           "location": [
             0.025948, 
             1.501812
+          ], 
+          "rotate": 90, 
+          "show": true
+        }
+      }
+    }, 
+    "R4": {
+      "footprint": "0805", 
+      "layer": "top", 
+      "location": [
+        -17.37468, 
+        -1.384832
+      ], 
+      "rotate": -90, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0, 
+            -1.494582
+          ], 
+          "rotate": 90, 
+          "show": true
+        }
+      }
+    }, 
+    "R5": {
+      "footprint": "0805", 
+      "layer": "top", 
+      "location": [
+        -14.3668, 
+        -1.384832
+      ], 
+      "rotate": -90, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            -0.0, 
+            -1.494582
           ], 
           "rotate": 90, 
           "show": true
@@ -492,6 +497,46 @@
     }
   }, 
   "shapes": {
+    "B": {
+      "footprint": "boldport-logo-b", 
+      "layer": "top", 
+      "location": [
+        12.504771, 
+        3.887606
+      ], 
+      "rotate": 0, 
+      "show": true
+    }, 
+    "BC": {
+      "footprint": "boldport-club-logo-bc", 
+      "layer": "top", 
+      "location": [
+        13.448267, 
+        -0.723088
+      ], 
+      "rotate": 0, 
+      "show": true
+    }, 
+    "BLOCK": {
+      "footprint": "block", 
+      "layer": "bottom", 
+      "location": [
+        0, 
+        9.431005
+      ], 
+      "rotate": 0, 
+      "show": true
+    }, 
+    "DECO": {
+      "footprint": "header-decoration-edge", 
+      "layer": "top", 
+      "location": [
+        0, 
+        0
+      ], 
+      "rotate": 0, 
+      "show": true
+    }, 
     "INFO": {
       "footprint": "info-text", 
       "layer": "bottom", 
@@ -537,7 +582,7 @@
       "layer": "bottom", 
       "location": [
         0, 
-        7.22
+        7.10307
       ], 
       "rotate": 0, 
       "show": true
@@ -561,14 +606,15 @@
       ], 
       "rotate": 90, 
       "show": true
-    },
-    "DECO": {
-      "footprint": "header-decoration-edge", 
+    }, 
+    "EXPAND": {
+      "footprint": "expand", 
       "layer": "top", 
       "location": [
         0, 
-        0
+        3.175
       ], 
+      "scale": 0.95,
       "rotate": 0, 
       "show": true
     }
