@@ -173,7 +173,7 @@
         12.010691, 
         8.471671
       ], 
-      "rotate": 0, 
+      "rotate": 180, 
       "scale": 0.85, 
       "show": true, 
       "silkscreen": {
